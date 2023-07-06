@@ -8,7 +8,7 @@ import time
 # Set the default Selenium driver path
 # On macOS, select the file and hold the "Option" key, then click "Copy" from the "File" menu
 # On Windows, right-click on the driver executable, select "Properties," and copy the "Location" field
-chrome_driver_path = "/Users/stefanbaudoin/Documents/chromedriver_mac64/chromedriver"
+chrome_driver_path = "/path/to/chromedriver"
 
 service = Service(chrome_driver_path)
 driver = webdriver.Chrome(service=service)
