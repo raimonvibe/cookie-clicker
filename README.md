@@ -2,6 +2,14 @@
 
 A simple bot that automates clicking and purchasing in the popular game Cookie Clicker using Selenium.
 
+## Demo
+
+Watch the bot in action:
+
+[![Cookie Clicker Bot Demo](assets/demo.gif)](https://www.youtube.com/watch?v=zXNmr61oR9Y)
+
+Click the GIF above to watch the full video on YouTube!
+
 ## Introduction
 
 Cookie Clicker Bot is a Python script that utilizes Selenium, a web automation library, to automate clicking and purchasing in the game [Cookie Clicker](https://orteil.dashnet.org/cookieclicker/). The bot aims to maximize the player's progress and achieve higher scores by automating repetitive tasks.
